@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.15)
+
+project("Double Pointers")
+
+add_executable(1_pointer_to_pointer 1_pointer_to_pointer.cpp)
+add_executable(2_pointer_inception 2_pointer_inception.cpp)
+add_executable(3_stack_of_ints 3_stack_of_ints.cpp)
+add_executable(4_generic_stack 4_generic_stack.cpp)
+add_executable(5_stack_of_dragons 5_stack_of_dragons.cpp)
+add_executable(6_stack_of_dragon_pointers 6_stack_of_dragon_pointers.cpp)
+add_executable(7_matrix_multiplication 7_matrix_multiplication.cpp)
+add_executable(8_void_pointers 8_void_pointers.cpp)
